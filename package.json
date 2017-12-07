@@ -4,7 +4,7 @@
 	"description": "IQNOMY API client with credential authentication",
 	"repository": {
 		"type": "git",
-		"url": ""
+		"url": "git+https://github.com/IQNOMY/iqnomy-restclient.git"
 	},
 	"private": false,
 	"author": {
@@ -13,7 +13,7 @@
 	},
 	"license": "MIT",
 	"bugs": {
-		"url": ""
+		"url": "https://github.com/IQNOMY/iqnomy-restclient/issues"
 	},
 	"dependencies": {
 		"event-stream": "^3.3.4",
