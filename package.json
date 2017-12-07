@@ -1,5 +1,5 @@
 {
-	"name": "iq-restclient",
+	"name": "iqnomy-restclient",
 	"version": "0.1.0",
 	"description": "IQNOMY API client with credential authentication",
 	"repository": {
