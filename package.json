@@ -1,0 +1,25 @@
+{
+	"name": "iq-restclient",
+	"version": "0.1.0",
+	"description": "IQNOMY API client with credential authentication",
+	"repository": {
+		"type": "git",
+		"url": ""
+	},
+	"private": false,
+	"author": {
+		"name": "Steven Choo",
+		"email": "steven@humanswitch.io"
+	},
+	"license": "MIT",
+	"bugs": {
+		"url": ""
+	},
+	"dependencies": {
+		"event-stream": "^3.3.4",
+		"node-persist": "^2.1.0",
+		"prompt": "^1.0.0",
+		"underscore": "^1.8.3",
+		"unirest": "^0.5.1"
+	}
+}
