@@ -273,3 +273,11 @@ exports.delete = function($path) {
     var request = unirest.delete(createUrl($path)).strictSSL(strictSSL);
     return execute(request);
 };
+
+exports.createAuthHeader = function() {
+    return {"Authorization": "Bearer " + keycloakState.access_token};
+}
+
+exports.executeRequest = function($request, $resolve, $reject) {
+    return execute($request, $resolve, $reject);
+}
