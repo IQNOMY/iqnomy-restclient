@@ -1,25 +1,25 @@
 {
-	"name": "iqnomy-restclient",
-	"version": "0.1.0",
-	"description": "IQNOMY API client with credential authentication",
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/IQNOMY/iqnomy-restclient.git"
-	},
-	"private": false,
-	"author": {
-		"name": "Steven Choo",
-		"email": "steven@humanswitch.io"
-	},
-	"license": "MIT",
-	"bugs": {
-		"url": "https://github.com/IQNOMY/iqnomy-restclient/issues"
-	},
-	"dependencies": {
-		"event-stream": "^3.3.4",
-		"node-persist": "^2.1.0",
-		"prompt": "^1.0.0",
-		"underscore": "^1.8.3",
-		"unirest": "^0.5.1"
-	}
+    "name": "iqnomy-restclient",
+    "version": "0.1.0",
+    "description": "IQNOMY API client with credential authentication",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/IQNOMY/iqnomy-restclient.git"
+    },
+    "private": false,
+    "author": {
+        "name": "Steven Choo",
+        "email": "steven@humanswitch.io"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/IQNOMY/iqnomy-restclient/issues"
+    },
+    "dependencies": {
+        "event-stream": "^3.3.4",
+        "node-persist": "^2.1.0",
+        "prompt": "^1.0.0",
+        "underscore": "^1.8.3",
+        "unirest": "^0.5.1"
+    }
 }
